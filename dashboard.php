@@ -71,7 +71,7 @@ $result = $conn->query($sql);
 
     <footer class="background">
         <p class="text-footer">
-            Copyright &copy; 2027 - www.iEducate.com - All rights reserved
+        Chaudary Ki University Hai Achi Hi Ho Gi
         </p>
     </footer>
     <script src="resp.js"></script>
